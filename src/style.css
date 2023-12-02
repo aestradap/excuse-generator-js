@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.container {
+  display: block;
+  text-align: center;
+  /* min-height: 200px; */
+}
